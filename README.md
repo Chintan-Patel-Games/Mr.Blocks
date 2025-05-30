@@ -15,15 +15,9 @@
 
 ## Development
 
-### Built With
-- **Engine**: Unity 2D
-- **Language**: C#
-
-### Requirements
-- **Unity version**: 2022.3.35f1
-- **System Requirements**:
-  - **Minimum**: Dual-core processor, 4GB RAM, Integrated graphics
-  - **Recommended**: Quad-core processor, 8GB RAM, Dedicated graphics
+  ### Built With
+  - **Engine**: Unity 2D
+  - **Language**: C#
 
 ## How to Play
 1. Clone the repository:
@@ -35,16 +29,18 @@
 4. Use the WASD keys to control Mr. Block and avoid obstacles.
 
 ## Roadmap
- - [] Core mechanics: Movement and level completion.
- - [] Obstacle design and collision detection.
- - [] Multiple levels with increasing difficulty.
- - [] Sound and UI implementation.
- - [] Final testing and optimization.
+ - Core mechanics: Movement and level completion.
+ - Obstacle design and collision detection.
+ - Multiple levels with increasing difficulty.
+ - Sound and UI implementation.
+ - Final testing and optimization.
 
-## Contact
-- Developer: Your Name
-- Email: your.email@example.com
-- GitHub: https://github.com/YourUsername/Mr-Blocks
+## 🧑‍💻 Author
+
+**Chintan Patel**  
+💼 [LinkedIn](https://www.linkedin.com/in/chintanpatel024)  
+🎮 [itch.io](https://chintan-patel-games.itch.io)  
+🐙 [GitHub](https://github.com/Chintan-Patel-Games)
 
 Help Mr. Block reach the goal while avoiding obstacles in this fun and simple 2D game!
 
